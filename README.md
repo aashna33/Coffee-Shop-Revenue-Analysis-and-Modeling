@@ -20,18 +20,6 @@ Evaluate model accuracy using R², RMSE, and MAPE
 
 Visualize and interpret actual vs. predicted revenue trends
 
-📁 Dataset Description
-
-File: coffee_shop_revenue.csv
-
-Feature	Description
-Number_of_Customers_Per_Day	Total number of customers visiting each day
-Average_Order_Value	Average amount spent per customer (USD)
-Operating_Hours_Per_Day	Total daily operating hours
-Number_of_Employees	Number of employees working that day
-Marketing_Spend_Per_Day	Marketing and advertising spend (USD)
-Location_Foot_Traffic	People passing near the store per day
-Daily_Revenue	Target variable — total daily revenue (USD)
 🧩 Project Workflow
 1️⃣ Exploratory Data Analysis (EDA)
 
