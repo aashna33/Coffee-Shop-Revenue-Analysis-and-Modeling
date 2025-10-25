@@ -119,6 +119,7 @@ Ensemble models (Random Forest, Gradient Boosting) perform well but require high
 
 The coffee shop’s revenue pattern follows a non-linear relationship with key operational factors.
 
+
 🔮 Future Enhancements
 
 Automate hyperparameter tuning using GridSearchCV
@@ -129,14 +130,3 @@ Integrate time-series components for seasonality tracking
 
 Add model explainability with SHAP or LIME
 
-🧰 Technologies Used
-
-Python 3.10+
-
-Pandas, NumPy
-
-Matplotlib, Seaborn
-
-Scikit-learn
-
-Jupyter Notebook
